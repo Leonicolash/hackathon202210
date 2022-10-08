@@ -5,9 +5,9 @@ import sys
 import hashlib
 
 """
- In this case you need to produce n files from a template, liste of id and two dates.
-dlms is a standard of communication in energy with iot object (smart meter)
-You need to remplace the id of the template by the one in file  and change the sart and the stop date.
+ In this case you need to produce n files from a template, list of id and two dates.
+DLMS is a standard of communication in energy with iot object (smart meter)
+You need to remplace the id of the template by the one in file  and change the start and the stop date.
 
 filename_id : filename of the the list of  id 
 dt_start : a date in format YYYY-MM-DDTHH:MM:SS
